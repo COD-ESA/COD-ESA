@@ -16,7 +16,7 @@ ___
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=COD-ESA&theme=solarized_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=COD-ESA&theme=solarized_dark)>
 
 <!-- Статистика языков в репозиториях: -->
 <!--![#############################](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=COD-ESA&theme=solarized_dark)>
